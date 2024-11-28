@@ -1,8 +1,8 @@
-# Web Weather App 🌦️
+# Web Weather App 
 
 A simple weather app built with **React.js** using the OpenWeatherMap API. This app allows users to search for real-time weather information of any city and features a clean design with dark mode support.
 
-## Features ✨
+## Features 
 - Search for current weather by city name.
 - Displays:
   - Temperature (in Celsius).
@@ -18,7 +18,7 @@ A simple weather app built with **React.js** using the OpenWeatherMap API. This 
 - **CSS**: For styling the app.
 - **OpenWeatherMap API**: For real-time weather data.
 
-## How to Run Locally 🚀
+## How to Run Locally 
 1. Clone the repository:
    ```bash
    git clone https://github.com/tisdeepti/web-weather-app.git
@@ -38,15 +38,15 @@ A simple weather app built with **React.js** using the OpenWeatherMap API. This 
    npm start
    ```
 
-## Future Enhancements 🚧
+## Future Enhancements 
 - Add a 5-day weather forecast feature.
 - Enable users to toggle between Celsius and Fahrenheit.
 - Add geolocation to fetch weather for the user's current location.
 - Improve the design with animations and advanced UI components.
 
-## License 📜
+## License 
 This project is licensed under the MIT License.
 
-## Acknowledgments 🙌
+## Acknowledgments 
 - [OpenWeatherMap](https://openweathermap.org/) for the weather API.
 - [React.js](https://reactjs.org/) for the frontend library.
